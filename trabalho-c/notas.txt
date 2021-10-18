@@ -1,0 +1,1 @@
+Mantivmemos o endereçamento com 4 índices [LETRA][LETRA][NÚMERO][NÚMERO] porque ficam, em média, 0.40 segundos mais rápido
